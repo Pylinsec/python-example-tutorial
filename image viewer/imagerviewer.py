@@ -1,8 +1,6 @@
-from platform import java_ver
-from re import I
+
 from tkinter import *
 from tkinter import ttk
-from xml.etree.ElementTree import PI
 from PIL import  Image , ImageTk
 import os
 
